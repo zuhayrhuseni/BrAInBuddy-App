@@ -37,7 +37,7 @@ struct ChatBotView: View {
                 .fontWeight(.bold)
                 .padding(.top)
 
-            // AI Profile Picture
+            // AI Profile Picture - From Desktop
             Image("Buddy") // Replace with your image asset name
                 .resizable()
                 .frame(width: 100, height: 100)
@@ -103,7 +103,7 @@ struct ForumView: View {
         }
     }
 }
-
+// Forum Struct
 struct ForumMessageView: View {
     var username: String
     var message: String
@@ -144,6 +144,7 @@ struct ResourcesView: View {
     }
 }
 
+// XCode Preview
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
