@@ -1,6 +1,6 @@
 # BrAInbuddy Prototype
 
-A simple AI chatbot prototype that uses sentiment analysis to respond to user input, incorporating gamification elements and a static peer support forum.
+A simple chatbot prototype that uses sentiment analysis to respond to user input, incorporating a mental health resources tab and a peer support forum.
 
 ## Features
 
